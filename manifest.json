@@ -1,0 +1,13 @@
+{
+"name": "Farcaster Base NFT Mint",
+"id": "farcaster-nft-miniapp",
+"version": "1.0.0",
+"description": "Mint NFTs on Base network from Farcaster Mini App",
+"icon": "icon.png",
+"entry": "index.html",
+"permissions": [
+"wallet",
+"notifications",
+"social"
+]
+}
